@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/task-timer-app-deploy/static/css/main.ec598b36.chunk.css",
-    "main.js": "/task-timer-app-deploy/static/js/main.d1eb79de.chunk.js",
-    "main.js.map": "/task-timer-app-deploy/static/js/main.d1eb79de.chunk.js.map",
-    "runtime-main.js": "/task-timer-app-deploy/static/js/runtime-main.09f28150.js",
-    "runtime-main.js.map": "/task-timer-app-deploy/static/js/runtime-main.09f28150.js.map",
-    "static/js/2.312f3a96.chunk.js": "/task-timer-app-deploy/static/js/2.312f3a96.chunk.js",
-    "static/js/2.312f3a96.chunk.js.map": "/task-timer-app-deploy/static/js/2.312f3a96.chunk.js.map",
+    "main.css": "/task-timer-app-deploy/static/css/main.0a80e62c.chunk.css",
+    "main.js": "/task-timer-app-deploy/static/js/main.4d4d46b8.chunk.js",
+    "main.js.map": "/task-timer-app-deploy/static/js/main.4d4d46b8.chunk.js.map",
+    "runtime-main.js": "/task-timer-app-deploy/static/js/runtime-main.de86f148.js",
+    "runtime-main.js.map": "/task-timer-app-deploy/static/js/runtime-main.de86f148.js.map",
+    "static/js/2.c6909ff9.chunk.js": "/task-timer-app-deploy/static/js/2.c6909ff9.chunk.js",
+    "static/js/2.c6909ff9.chunk.js.map": "/task-timer-app-deploy/static/js/2.c6909ff9.chunk.js.map",
     "index.html": "/task-timer-app-deploy/index.html",
-    "precache-manifest.b126467835fdf0ceab048b33d045c942.js": "/task-timer-app-deploy/precache-manifest.b126467835fdf0ceab048b33d045c942.js",
+    "precache-manifest.4bc13accdbd505ddc28450d5d14e25b6.js": "/task-timer-app-deploy/precache-manifest.4bc13accdbd505ddc28450d5d14e25b6.js",
     "service-worker.js": "/task-timer-app-deploy/service-worker.js",
-    "static/css/main.ec598b36.chunk.css.map": "/task-timer-app-deploy/static/css/main.ec598b36.chunk.css.map",
-    "static/js/2.312f3a96.chunk.js.LICENSE": "/task-timer-app-deploy/static/js/2.312f3a96.chunk.js.LICENSE"
+    "static/css/main.0a80e62c.chunk.css.map": "/task-timer-app-deploy/static/css/main.0a80e62c.chunk.css.map",
+    "static/js/2.c6909ff9.chunk.js.LICENSE.txt": "/task-timer-app-deploy/static/js/2.c6909ff9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.09f28150.js",
-    "static/js/2.312f3a96.chunk.js",
-    "static/css/main.ec598b36.chunk.css",
-    "static/js/main.d1eb79de.chunk.js"
+    "static/js/runtime-main.de86f148.js",
+    "static/js/2.c6909ff9.chunk.js",
+    "static/css/main.0a80e62c.chunk.css",
+    "static/js/main.4d4d46b8.chunk.js"
   ]
 }
