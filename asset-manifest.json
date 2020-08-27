@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/task-timer-app-deploy/static/css/main.0a80e62c.chunk.css",
-    "main.js": "/task-timer-app-deploy/static/js/main.4d4d46b8.chunk.js",
-    "main.js.map": "/task-timer-app-deploy/static/js/main.4d4d46b8.chunk.js.map",
+    "main.js": "/task-timer-app-deploy/static/js/main.cc6d2af2.chunk.js",
+    "main.js.map": "/task-timer-app-deploy/static/js/main.cc6d2af2.chunk.js.map",
     "runtime-main.js": "/task-timer-app-deploy/static/js/runtime-main.de86f148.js",
     "runtime-main.js.map": "/task-timer-app-deploy/static/js/runtime-main.de86f148.js.map",
     "static/js/2.c6909ff9.chunk.js": "/task-timer-app-deploy/static/js/2.c6909ff9.chunk.js",
     "static/js/2.c6909ff9.chunk.js.map": "/task-timer-app-deploy/static/js/2.c6909ff9.chunk.js.map",
     "index.html": "/task-timer-app-deploy/index.html",
-    "precache-manifest.4bc13accdbd505ddc28450d5d14e25b6.js": "/task-timer-app-deploy/precache-manifest.4bc13accdbd505ddc28450d5d14e25b6.js",
+    "precache-manifest.47476d38223504040ad6cbae3013262a.js": "/task-timer-app-deploy/precache-manifest.47476d38223504040ad6cbae3013262a.js",
     "service-worker.js": "/task-timer-app-deploy/service-worker.js",
     "static/css/main.0a80e62c.chunk.css.map": "/task-timer-app-deploy/static/css/main.0a80e62c.chunk.css.map",
     "static/js/2.c6909ff9.chunk.js.LICENSE.txt": "/task-timer-app-deploy/static/js/2.c6909ff9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.de86f148.js",
     "static/js/2.c6909ff9.chunk.js",
     "static/css/main.0a80e62c.chunk.css",
-    "static/js/main.4d4d46b8.chunk.js"
+    "static/js/main.cc6d2af2.chunk.js"
   ]
 }
