@@ -1,15 +1,18 @@
 import React from "react";
 import { Provider } from "react-redux";
-import { HashRouter, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import { createBrowserHistory } from "history";
 import MainComponent from "./MainComponent";
 import ScoreItem from "./ScoreItem";
 
+const history = createBrowserHistory();
+
 const Root = ({ store }) => (
   <Provider store={store}>
-    <HashRouter basename="/">
+    <Router history={history}>
       <Route exact path="/" component={MainComponent} />
       <Route path="/:id" component={ScoreItem} />
-    </HashRouter>
+    </Router>
   </Provider>
 );
 
